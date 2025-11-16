@@ -121,7 +121,7 @@ patrones-de-diseño-javascript/
 
 ## 🤝 Contribuciones
 
-Este es un proyecto de aprendizaje personal y poner en práctica el contenido de la [Guía Completa de Patrones de Diseño en JavaScript Moderno](https://darkusphantom.com/programacion/guia-completa-de-patrones-de-diseno-en-javascript-moderno/). Siéntete libre de usar estos ejercicios como referencia para tus propios proyectos.
+Este es un proyecto de aprendizaje personal y práctico de la [Guía Completa de Patrones de Diseño en JavaScript Moderno](https://darkusphantom.com/programacion/guia-completa-de-patrones-de-diseno-en-javascript-moderno/). Siéntete libre de usar estos ejercicios como referencia para tus propios proyectos.
 
 ## 📄 Licencia
 
