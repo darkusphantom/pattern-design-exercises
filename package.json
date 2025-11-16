@@ -1,0 +1,26 @@
+{
+  "name": "patrones-de-diseño-javascript",
+  "version": "1.0.0",
+  "description": "Ejercicios prácticos sobre patrones de diseño en JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "solucion-01": "node ejercicio-01/solucion.js",
+    "solucion-02": "node ejercicio-02/solucion.js",
+    "solucion-03": "node ejercicio-03/solucion.js",
+    "solucion-04": "node ejercicio-04/solucion.js",
+    "solucion-05": "node ejercicio-05/solucion.js"
+  },
+  "keywords": [
+    "javascript",
+    "patrones-de-diseño",
+    "design-patterns",
+    "ejercicios"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
+
